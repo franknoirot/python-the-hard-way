@@ -1,0 +1,17 @@
+# - Octothorpe or "hashtag" - used to start a comment
+, - comma - used to separate arguments when passed into a function
+() - parentheses - used to call functions, group operations, and group arguments into function definitions
+[] - square brackets - used to create arrays of items
+: - colon - used in function definition blocks to show the beginning of the function's actual code.
+& - used as the logical "AND" operator
+|| - used as the logical "OR" operator
+% - used to mark string interpolation, placed between the string and the values to be interpolated into it.
+! - used as the logical "NOT" operator
+- - used as mathematical subraction
++ - used as mathematical addition
+= - used to assign one value to a variable
+== - used to test if one value is equal to another
+/ - used as mathematical division
+* - used as mathematical multiplication
+> - used to test if one value is greater than another
+< - used to test if one value is less than another
